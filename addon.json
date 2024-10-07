@@ -1,0 +1,28 @@
+{
+	"title" : "Quake Sound Pack",
+	"type" : "Effects",
+	"tags" : [ "fun", "roleplay" ],
+	"ignore" :
+	[
+		".git/*",
+		".gitignore",
+		".gitignore*",
+		".gitattributes",
+		".gitattributes*",
+		".git*",
+		"*.md",
+		"*.xlsx",
+		"*.xls",
+		"*.bat",
+		"*.zip",
+		"*.old",
+		"*.old2",
+		"*.7z",
+		"*.gma",
+		"*.ogm",
+		"*.psd",
+		"*.jpg",
+		"*.bz2",
+        "pic.jpg"
+	]
+}
